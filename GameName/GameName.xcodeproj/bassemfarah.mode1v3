@@ -333,7 +333,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>549A7D4012390CF7005A9423</string>
+										<string>5440F132124A0F76005CC049</string>
 										<key>history</key>
 										<array>
 											<string>54980C211220C5EA00CDCB29</string>
@@ -368,8 +368,6 @@
 											<string>549D8E3D1233D9EF002882A0</string>
 											<string>549D8E3E1233D9EF002882A0</string>
 											<string>549D8E3F1233D9EF002882A0</string>
-											<string>54613C461234E66A0005ACD8</string>
-											<string>54613C481234E66A0005ACD8</string>
 											<string>54554AFD1236473300CA9297</string>
 											<string>54554B6612364D7700CA9297</string>
 											<string>54554BA41236531C00CA9297</string>
@@ -387,7 +385,7 @@
 											<string>549A7C8A1238FD29005A9423</string>
 											<string>549A7D0E12390C14005A9423</string>
 											<string>549A7D0F12390C14005A9423</string>
-											<string>549A7D1112390C14005A9423</string>
+											<string>549A7D4012390CF7005A9423</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -399,14 +397,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1072, 595}}</string>
+								<string>{{0, 0}, {1072, 593}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 59 1280 719 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>595pt</string>
+							<string>593pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -419,14 +417,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 600}, {1072, 78}}</string>
+								<string>{{0, 598}, {1072, 80}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 59 1280 719 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>78pt</string>
+							<string>80pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -445,9 +443,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>549A7D3B12390CD6005A9423</string>
+				<string>5440F133124A0F76005CC049</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>549A7D3C12390CD6005A9423</string>
+				<string>5440F134124A0F76005CC049</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -586,7 +584,7 @@
 	<key>WindowOrderList</key>
 	<array>
 		<string>542E78C511AC0EC000655228</string>
-		<string>/Users/bassemfarah/Documents/iPhone Projects/GameName/GameName.xcodeproj</string>
+		<string>/Users/bassemfarah/GitHub/Test/GameName/GameName.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>0 59 1280 719 0 0 1280 778 </string>
@@ -666,7 +664,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>542E78C511AC0EC000655228</string>
-				<string>549A7D3D12390CD6005A9423</string>
+				<string>5440F135124A0F76005CC049</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
